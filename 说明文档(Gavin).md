@@ -40,3 +40,9 @@ DNS2=223.6.6.6
 
 
 * 三、其他
+
+关于k8s-master-101主机的/opt/k8s目录已打包，包含了文档中需下载和配置的软件包或文件。
+k8s目录下载地址：  
+链接：https://pan.baidu.com/s/1rgO1xBndz8dWcYfxlsrPKw  
+提取码：3nv9 
+
